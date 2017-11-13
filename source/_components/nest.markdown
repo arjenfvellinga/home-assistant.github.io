@@ -22,11 +22,11 @@ The Nest component is the main component to integrate all [Nest](https://nest.co
   - The "Company Information" can be anything. We recommend using your name.
 3. Submit changes
 4. Click "[Products](https://developers.nest.com/products)" at top of page.
-5. Click "[Create New Product](https://developers.nest.com/products/new)"
+5. Click "[Create a cloud product](https://developers.nest.com/products/new)"
 6. Fill in details:
   - Product name must be unique. We recommend [email] - Home Assistant.
   - The description, users, URLs can all be anything you want.
-  - Leave the "Redirect URI" Field blank
+  - Leave the "OAuth Redirect URI" Field blank
 7. For permissions check every box and if it's an option select the read/write option.
   - The description requires a specific format to be accepted.
     - Use "[Home Assistant] [Edit] [For Home Automation]" as the description as it is not super important.
